@@ -1,0 +1,128 @@
+# =========================
+# CARPETAS DEL EQUIPO
+# =========================
+
+0T_MELISSA/*
+0T_MELISSA/.gitkeep
+
+0T_KARIME/*
+0T_KARIME/.gitkeep
+
+0T_SARA/*
+0T_SARA/.gitkeep
+
+0T_DIEGO/*
+0T_DIEGO/.gitkeep
+
+0T_FELIPE/*
+0T_FELIPE/.gitkeep
+
+0T_SERGIO/*
+0T_SERGIO/.gitkeep
+
+
+# =========================
+# Unity
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get huge
+[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when corresponding asset is ignored
+# [Aa]ssets/**/*.meta
+
+# =========================
+# Builds
+# =========================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.appx
+*.x86
+*.x86_64
+*.apk
+*.bundle
+
+# =========================
+# IDE / Editors
+# =========================
+
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Rider
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Unity Crash Reports
+# =========================
+
+sysinfo.txt
+
+# =========================
+# Unity Generated Files
+# =========================
+
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# =========================
+# Addressables
+# =========================
+
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# =========================
+# Auto-generated VS/Unity files
+# =========================
+
+ExportedObj/
+.consulo/
+
+# =========================
+# Plastic SCM
+# =========================
+
+/.plastic/
