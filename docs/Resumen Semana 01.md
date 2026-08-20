@@ -2,11 +2,15 @@
 
 Sergio Palacios, Diego Ruiz, Karime Gonzales, Sara Peña, Melissa Mora, Felipe Alarcon
 
-Durante esta semana, se dialogo sobre los personajes, su trasfondo, origen, detalles e historia, seguido a esto se realizaron votaciones sobre diseños propuestos de cada personaje y así de esta manera elegir el diseño final a modelar que se incluirá dentro del videojuego. 
+Durante esta semana, se llevó a cabo una reunión en la que se dialogó sobre los diferentes personajes que harán parte del videojuego. En este espacio se revisó y discutió el trasfondo de cada uno, teniendo en cuenta aspectos como su origen, personalidad, características, detalles físicos, historia y el papel que tendrá dentro del proyecto. Esto permitió tener una visión más clara de la identidad de los personajes y de la forma en que estos se relacionarán con el mundo y la historia del videojuego.
 
-Por otro lado, se creó el proyecto en GitHub en el que será el medio en el que se trabajara le proyecto semana a semana, con tareas que cada miembro deberá cumplir según su rol dentro del proyecto
+Posteriormente, se realizaron diferentes propuestas de diseño para cada personaje, teniendo en cuenta las características que se habían definido previamente. Estas propuestas fueron presentadas al equipo con el objetivo de recibir opiniones y seleccionar aquellas que mejor representaran la idea planteada para cada personaje. Para tomar esta decisión de una manera más organizada y participativa, se realizaron votaciones entre los integrantes del equipo. De esta manera, se pudo elegir un diseño final para cada personaje, el cual será utilizado como referencia durante el proceso de modelado 3D y posteriormente será incluido dentro del videojuego.
 
-Las votaciones ganadore fueron las siguientes: 
+Por otro lado, durante la semana también se creó y configuró el proyecto en GitHub, el cual será utilizado como principal medio de organización y seguimiento del desarrollo del proyecto. A través de esta plataforma se podrá llevar un control de los avances realizados, compartir archivos y código, organizar las diferentes actividades y mantener un registro de los cambios que se realicen durante el desarrollo del videojuego.
+
+Además, se estableció que el trabajo se organizará semana a semana mediante diferentes tareas y actividades que deberán ser cumplidas por cada integrante del equipo de acuerdo con el rol que desempeña dentro del proyecto. Esto permitirá distribuir mejor las responsabilidades, facilitar el seguimiento del progreso y mantener una organización adecuada durante las diferentes etapas de desarrollo.
+
+Finalmente, después de realizar las respectivas votaciones, los diseños ganadores para cada uno de los personajes fueron los siguientes:
 
 **Sombrerón**
 
